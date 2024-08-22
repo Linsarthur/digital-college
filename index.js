@@ -50,3 +50,9 @@ for(let i = 0; i < frase.length; i++){
 
 
 
+
+let nome = prompt("Digite una palavrita: ")
+let vogal = ["a", "e", "i", "o", "u"]
+const arrayDeLetras = nome.split("")
+console.log(arrayDeLetras)
+
